@@ -1,0 +1,11 @@
+<resources>
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_NUMBER_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="DateLabel" x="center" y="12" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="StepsLabel" x="center" y="42" font="Graphics.FONT_SYSTEM_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_GREEN" />
+    <label id="FloorsLabel" x="center" y="62" font="Graphics.FONT_SYSTEM_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_GREEN" />
+    <label id="HRLabel" x="center" y="145" font="Graphics.FONT_SYSTEM_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_GREEN" />
+    <label id="CaloriesLabel" x="center" y="170" font="Graphics.FONT_SYSTEM_TINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_GREEN" />
+</layout>
+</resources>
